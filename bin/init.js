@@ -5,5 +5,5 @@ const csvFilePath = "./databases/proverbs.csv";
 csv()
   .fromFile(csvFilePath)
   .then((jsonObj) => {
-    fs.writeFileSync("./databases/proverbs.json", JSON.stringify(jsonObj, null, 2));
+    fs.writeFileSync("./bin/proverbs.json", JSON.stringify(jsonObj, null, 2));
   });

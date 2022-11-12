@@ -1,14 +1,18 @@
 #!/usr/bin/env node
 
 const dbLocal = require("db-local");
-const { Schema } = new dbLocal({ path: "./databases" });
 const chalk = require("chalk");
+const path = require("path");
+const dbLocation = path.resolve(__dirname);
+console.log(dbLocation);
+const { Schema } = new dbLocal({ path: dbLocation });
 
 const Proverb = Schema("proverbs", {
   _id: { type: Number, required: true },
   dutch: { type: String },
   english: { type: String },
 });
+
 
 require("yargs")
   .scriptName("dungly")

@@ -1,0 +1,13 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 1.0.1 (2022-11-12)
+
+
+### Bug Fixes
+
+* global install and db not found ([9e5aeb0](https://github.com/rkristelijn/dungly/commit/9e5aeb09ea17822f6c5e51bc40abb6a430c13868))
+* global install and db not found ([bae2cf4](https://github.com/rkristelijn/dungly/commit/bae2cf47407a53a0d0a9e2b348c88aa8c7814abc))
+* remove console.log ([9720ce5](https://github.com/rkristelijn/dungly/commit/9720ce59715825c0829a2d6a99477a103badc3d5))
+* remove nodemodules ([be33918](https://github.com/rkristelijn/dungly/commit/be33918475c9d87e2a1f520ab11c6e2b5f6e5fd5))

@@ -1,6 +1,6 @@
 {
   "name": "dungly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool to quickly find English proverbs based of Dutch keywords in Spreekwoorden",
   "main": "./bin/index.js",
   "bin": {
@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "init": "node ./bin/init.js"
+    "init": "node ./bin/init.js",
+    "release": "standard-version"
   },
   "keywords": [
     "proverbs",

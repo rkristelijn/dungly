@@ -1,7 +1,203 @@
 [
   {
     "_id": "1",
-    "dutch": "Het regent pijpenstelen",
-    "english": "It's raining cats and dogs"
+    "dutch": "het regent pijpenstelen",
+    "english": "it's raining cats and dogs"
+  },
+  {
+    "_id": "2",
+    "dutch": "iets goeds, dat eerst slecht leek",
+    "english": "a blessing in disguise"
+  },
+  {
+    "_id": "3",
+    "dutch": "iets heel gewoons",
+    "english": "a dime a dozen"
+  },
+  {
+    "_id": "4",
+    "dutch": "niet zeggen wat je bedoelt, meestal omdat het ongemakkelijk is om te zeggen",
+    "english": "beat around the bush"
+  },
+  {
+    "_id": "5",
+    "dutch": "beter laat dan nooit",
+    "english": "better late than never"
+  },
+  {
+    "_id": "6",
+    "dutch": "iets doen omdat het onvermijdelijk is",
+    "english": "bite the bullet"
+  },
+  {
+    "_id": "7",
+    "dutch": "succes",
+    "english": "break a leg"
+  },
+  {
+    "_id": "8",
+    "dutch": "ophouden met werken aan iets",
+    "english": "call it a day"
+  },
+  {
+    "_id": "9",
+    "dutch": "niet zo kritisch zijn",
+    "english": "cut somebody some slack"
+  },
+  {
+    "_id": "10",
+    "dutch": "iets half doen om tijd of geld uit te sparen",
+    "english": "cutting corners"
+  },
+  {
+    "_id": "11",
+    "dutch": "niet zo snel",
+    "english": "easy does it"
+  },
+  {
+    "_id": "12",
+    "dutch": "uit de hand lopen",
+    "english": "get out of hand"
+  },
+  {
+    "_id": "13",
+    "dutch": "doen wat je al de hele tijd wilde, zodat je verder kunt gaan",
+    "english": "get something out of your system"
+  },
+  {
+    "_id": "14",
+    "dutch": "beter je best doen of vertrekken",
+    "english": "get your act together"
+  },
+  {
+    "_id": "15",
+    "dutch": "iemand het voordeel van de twijfel geven",
+    "english": "give someone the benefit of the doubt"
+  },
+  {
+    "_id": "16",
+    "dutch": "opnieuw beginnen",
+    "english": "go back to the drawing board"
+  },
+  {
+    "_id": "17",
+    "dutch": "niet opgeven",
+    "english": "hit the sack"
+  },
+  {
+    "_id": "18",
+    "dutch": "het is niet ingewikkeld",
+    "english": "it's not rocket science"
+  },
+  {
+    "_id": "19",
+    "dutch": "iemand niet verantwoordelijk voor iets houden",
+    "english": "let someone off the hook"
+  },
+  {
+    "_id": "20",
+    "dutch": "een lang verhaal kort maken",
+    "english": "make a long story short"
+  },
+  {
+    "_id": "21",
+    "dutch": "het is te laat",
+    "english": "miss the boat"
+  },
+  {
+    "_id": "22",
+    "dutch": "tussen wal en schip vallen",
+    "english": "fall through the cracks"
+  },
+  {
+    "_id": "23",
+    "dutch": "niemand in europa mag tussen wal en schip vallen",
+    "english": "nobody in europe must be left by the wayside"
+  },
+  {
+    "_id": "24",
+    "dutch": "tussen wal en schip vallen",
+    "english": "falling between two stools"
+  },
+  {
+    "_id": "25",
+    "dutch": "je moet aan iets werken als je het hebben wilt",
+    "english": "no pain",
+    "field4": "no gain"
+  },
+  {
+    "_id": "26",
+    "dutch": "iets goed doen",
+    "english": "on the ball"
+  },
+  {
+    "_id": "27",
+    "dutch": "iemand voor de gek houden",
+    "english": "pull someone's leg"
+  },
+  {
+    "_id": "28",
+    "dutch": "kalmeer",
+    "english": "pull yourself together"
+  },
+  {
+    "_id": "29",
+    "dutch": "tot nu toe gaat alles goed",
+    "english": "so far so good"
+  },
+  {
+    "_id": "30",
+    "dutch": "als je over de duiver praat",
+    "english": "speak of the devil"
+  },
+  {
+    "_id": "31",
+    "dutch": "mijn geduld is nu op",
+    "english": "that's the last straw"
+  },
+  {
+    "_id": "32",
+    "dutch": "het beste van twee werelden",
+    "english": "the best of both worlds"
+  },
+  {
+    "_id": "33",
+    "dutch": "de tijd vliegt als je het naar je zin hebt",
+    "english": "time flies when you're having fun"
+  },
+  {
+    "_id": "34",
+    "dutch": "van streek raken",
+    "english": "to get bent out of shape"
+  },
+  {
+    "_id": "35",
+    "dutch": "om het nog erger te maken",
+    "english": "to make matters worse"
+  },
+  {
+    "_id": "36",
+    "dutch": "ziek",
+    "english": "under the weather"
+  },
+  {
+    "_id": "37",
+    "dutch": "laten we het daar nu nog niet over hebben",
+    "english": "we'll cross that bridge when we come to it"
+  },
+  {
+    "_id": "38",
+    "dutch": "iets ingewikkelds begrijpen",
+    "english": "wrap your head around something"
+  },
+  {
+    "_id": "39",
+    "dutch": "zeg dat wel",
+    "english": "you can say that again"
+  },
+  {
+    "_id": "40",
+    "dutch": "ik heb ook geen idee",
+    "english": "your guess is as good as mine"
   }
 ]

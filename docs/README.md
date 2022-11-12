@@ -15,10 +15,14 @@ End result will be that you can install this tool globally `npm i -g dungly` (at
 - `npm uninstall -g dungly` - uninstall globally
 
 ## Extending
+
 - update `databases/proverbs.csv`, run `npm run init`
+
+Make sure the full csv file is lowercase (VSC/mac: command-shift-P, transform to lowercase)
 
 ## Resources used
 
 - [Build Your First Node.js Command Line Application](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs)
 - [What is Dungli](https://names.quillem.com/vegetables/what-is-dungli-in-english)
 - [yargs with 1 argument](https://github.com/yargs/yargs/blob/main/docs/advanced.md)
+- [De meest gebruikte Engelse spreekwoorden](https://www.ef.nl/leermiddelen-engels/engelse-spreekwoorden/)

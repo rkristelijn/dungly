@@ -20,6 +20,7 @@
     "chalk": "^4.1.2",
     "csvtojson": "^2.0.10",
     "db-local": "^2.9.0",
+    "standard-version": "^9.5.0",
     "yargs": "^17.6.2"
   }
 }

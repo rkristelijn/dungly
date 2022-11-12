@@ -4,7 +4,6 @@ const dbLocal = require("db-local");
 const chalk = require("chalk");
 const path = require("path");
 const dbLocation = path.resolve(__dirname);
-console.log(dbLocation);
 const { Schema } = new dbLocal({ path: dbLocation });
 
 const Proverb = Schema("proverbs", {

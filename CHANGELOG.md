@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/rkristelijn/dungly/compare/v1.0.2...v1.1.0) (2022-11-13)
+
+
+### Features
+
+* add more values ([1bf7aad](https://github.com/rkristelijn/dungly/commit/1bf7aad1534528d1c05ec8b55785ec9d320d7e5c))
+
 ### 1.0.2 (2022-11-12)
 
 

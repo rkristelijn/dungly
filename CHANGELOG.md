@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/rkristelijn/dungly/compare/v1.1.0...v1.1.1) (2022-11-13)
+
+
+### Bug Fixes
+
+* corrupt db ([a908402](https://github.com/rkristelijn/dungly/commit/a90840281dc8e93e2e8aa3f1e920eab8a0e537b7))
+
 ## [1.1.0](https://github.com/rkristelijn/dungly/compare/v1.0.2...v1.1.0) (2022-11-13)
 
 

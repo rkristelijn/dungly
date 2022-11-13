@@ -15,6 +15,7 @@ const Proverb = Schema("proverbs", {
 
 require("yargs")
   .scriptName("dungly")
+  .help(false)
   .usage("dungly <keyword>")
   .command(
     ["keyword", "$0"],

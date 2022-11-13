@@ -122,8 +122,7 @@
   {
     "_id": "25",
     "dutch": "je moet aan iets werken als je het hebben wilt",
-    "english": "no pain",
-    "field4": "no gain"
+    "english": "no pain; no gain"
   },
   {
     "_id": "26",
@@ -204,5 +203,868 @@
     "_id": "41",
     "dutch": "beter twee vogels in de hand dan tien in de lucht",
     "english": "a bird in the hand is worth two in the bush"
+  },
+  {
+    "_id": "42",
+    "dutch": "een dubbeltje voor je gedachten",
+    "english": "a penny for your thoughts"
+  },
+  {
+    "_id": "43",
+    "dutch": "geld dat je vandaag spaart, kun je later uitgeven",
+    "english": "a penny saved is a penny earned"
+  },
+  {
+    "_id": "44",
+    "dutch": "de allerergste situatie",
+    "english": "a perfect storm"
+  },
+  {
+    "_id": "45",
+    "dutch": "een foto zegt meer dan 1000 woorden",
+    "english": "a picture is worth 1000 words"
+  },
+  {
+    "_id": "46",
+    "dutch": "geloof wat mensen doen en niet wat ze zeggen dat ze zullen doen",
+    "english": "actions speak louder than words"
+  },
+  {
+    "_id": "47",
+    "dutch": "een slechte situatie nog erger maken",
+    "english": "add insult to injury"
+  },
+  {
+    "_id": "48",
+    "dutch": "je vergissen,op de verkeerde plek naar oplossingen zoeken",
+    "english": "barking up the wrong tree"
+  },
+  {
+    "_id": "49",
+    "dutch": "mensen die hetzelfde zijn, zijn vaak vrienden (vaak in negatieve zin),",
+    "english": "birds of a feather flock together"
+  },
+  {
+    "_id": "50",
+    "dutch": "iets op je nemen wat eigenlijk teveel is",
+    "english": "bite off more than you can chew"
+  },
+  {
+    "_id": "51",
+    "dutch": "teveel hooi op je vork nemen",
+    "english": "bite off more than you can chew"
+  },
+  {
+    "_id": "52",
+    "dutch": "het ijs breken",
+    "english": "break the ice"
+  },
+  {
+    "_id": "53",
+    "dutch": "nog maar net",
+    "english": "by the skin of your teeth"
+  },
+  {
+    "_id": "54",
+    "dutch": "appels met peren vergelijken",
+    "english": "comparing apples to oranges"
+  },
+  {
+    "_id": "55",
+    "dutch": "iets is zeer duur",
+    "english": "costs an arm and a leg"
+  },
+  {
+    "_id": "56",
+    "dutch": "iets onverwacht doen zonder het gepland te hebben",
+    "english": "do something at the drop of a hat"
+  },
+  {
+    "_id": "57",
+    "dutch": "andere mensen goed behandelen. ook bekend als 'de gouden regel'",
+    "english": "do unto others as you would have them do unto you"
+  },
+  {
+    "_id": "58",
+    "dutch": "de huid niet verkopen voordat de beer geschoten is.",
+    "english": "don't count your chickens before they hatch"
+  },
+  {
+    "_id": "59",
+    "dutch": "het heeft geen zin te klagen over iets wat toch niet veranderd kan worden",
+    "english": "don't cry over spilt milk"
+  },
+  {
+    "_id": "60",
+    "dutch": "je bent hier niet erg goed in",
+    "english": "don't give up your day job"
+  },
+  {
+    "_id": "61",
+    "dutch": "het is te riskant wat je doet",
+    "english": "don't put all your eggs in one basket"
+  },
+  {
+    "_id": "62",
+    "dutch": "achter de wolken schijnt de zon",
+    "english": "every cloud has a silver lining"
+  },
+  {
+    "_id": "63",
+    "dutch": "behandeld worden op die manier waarop jij anderen behandelt (negatief)",
+    "english": "get a taste of your own medicine"
+  },
+  {
+    "_id": "64",
+    "dutch": "iemand negeren",
+    "english": "give someone the cold shoulder"
+  },
+  {
+    "_id": "65",
+    "dutch": "iets doen wat geen zin heeft",
+    "english": "go on a wild goose chase"
+  },
+  {
+    "_id": "66",
+    "dutch": "wees geduldig",
+    "english": "good things come to those who wait"
+  },
+  {
+    "_id": "67",
+    "dutch": "hij heeft belangrijkere dingen te doen dan datgene waar we nu over praten",
+    "english": "he has bigger fish to fry"
+  },
+  {
+    "_id": "68",
+    "dutch": "de zoon lijkt precies op de vader",
+    "english": "he's a chip off the old block"
+  },
+  {
+    "_id": "69",
+    "dutch": "het precies juist hebben",
+    "english": "hit the nail on the head"
+  },
+  {
+    "_id": "70",
+    "dutch": "wat niet wat, dat niet deert",
+    "english": "ignorance is bliss"
+  },
+  {
+    "_id": "71",
+    "dutch": "het is nog niet voorbij",
+    "english": "it ain't over till the fat lady sings"
+  },
+  {
+    "_id": "72",
+    "dutch": "jij bent net zo slecht als ik",
+    "english": "it takes one to know one"
+  },
+  {
+    "_id": "73",
+    "dutch": "het is makkelijk",
+    "english": "it's a piece of cake"
+  },
+  {
+    "_id": "74",
+    "dutch": "appeltje, eitje",
+    "english": "it's a piece of cake"
+  },
+  {
+    "_id": "75",
+    "dutch": "het stort van de regen",
+    "english": "it's raining cats and dogs"
+  },
+  {
+    "_id": "76",
+    "dutch": "twee vliegen met een klap slaan",
+    "english": "kill two birds with one stone"
+  },
+  {
+    "_id": "77",
+    "dutch": "het geheim verklappen",
+    "english": "let the cat out of the bag"
+  },
+  {
+    "_id": "78",
+    "dutch": "van je ervaring leren",
+    "english": "live and learn"
+  },
+  {
+    "_id": "79",
+    "dutch": "goed nadenken voor je iets doet",
+    "english": "look before you leap"
+  },
+  {
+    "_id": "80",
+    "dutch": "op proef. als je nog een fout maakt, kom je in de problemen",
+    "english": "on thin ice"
+  },
+  {
+    "_id": "81",
+    "dutch": "zelden",
+    "english": "once in a blue moon"
+  },
+  {
+    "_id": "82",
+    "dutch": "als pasen en pinksteren op een dag vallen",
+    "english": "once in a blue moon"
+  },
+  {
+    "_id": "83",
+    "dutch": "pleiten voor het tegengestelde, gewoon voor de discussie",
+    "english": "play devil's advocate"
+  },
+  {
+    "_id": "84",
+    "dutch": "ergens even niets mee doen",
+    "english": "put something on ice"
+  },
+  {
+    "_id": "85",
+    "dutch": "iets voor iemand bederven",
+    "english": "rain on someone's parade"
+  },
+  {
+    "_id": "86",
+    "dutch": "iets voor later bewaren",
+    "english": "saving for a rainy day"
+  },
+  {
+    "_id": "87",
+    "dutch": "betrouwbaarheid is belangrijker dan snelheid",
+    "english": "slow and steady wins the race"
+  },
+  {
+    "_id": "88",
+    "dutch": "een geheim verklappen",
+    "english": "spill the beans"
+  },
+  {
+    "_id": "89",
+    "dutch": "een afspraak uitstellen",
+    "english": "take a rain check"
+  },
+  {
+    "_id": "90",
+    "dutch": "iets met een korreltje zout nemen",
+    "english": "take it with a grain of salt"
+  },
+  {
+    "_id": "91",
+    "dutch": "het is nu aan jou",
+    "english": "the ball is in your court"
+  },
+  {
+    "_id": "92",
+    "dutch": "schot voor de boeg",
+    "english": "hit it in the ball park"
+  },
+  {
+    "_id": "93",
+    "dutch": "een echt goede uitvinding",
+    "english": "the best thing since sliced bread"
+  },
+  {
+    "_id": "94",
+    "dutch": "uit de verte lijkt het goed, maar van dichtbij zie je dat er problemen zijn",
+    "english": "the devil is in the details"
+  },
+  {
+    "_id": "95",
+    "dutch": "degene die het eerst komt, krijgt het beste",
+    "english": "the early bird gets the worm"
+  },
+  {
+    "_id": "96",
+    "dutch": "wie het eerst komt, die het eerst maalt",
+    "english": "the early bird gets the worm"
+  },
+  {
+    "_id": "97",
+    "dutch": "het grote problem waar niet over gepraat wordt",
+    "english": "the elephant in the room"
+  },
+  {
+    "_id": "98",
+    "dutch": "alles, helemaal",
+    "english": "the whole nine yards"
+  },
+  {
+    "_id": "99",
+    "dutch": "er zijn nog meer vissen in de zee",
+    "english": "there are other fish in the sea"
+  },
+  {
+    "_id": "100",
+    "dutch": "hij lijkt gek, maar in werkelijkheid is hij erg slim",
+    "english": "there's a method to his madness"
+  },
+  {
+    "_id": "101",
+    "dutch": "overal zit wel een prijs aan",
+    "english": "there's no such thing as a free lunch"
+  },
+  {
+    "_id": "102",
+    "dutch": "een risico nemen",
+    "english": "throw caution to the wind"
+  },
+  {
+    "_id": "103",
+    "dutch": "je kan niet alles hebben",
+    "english": "you can't have your cake and eat it too"
+  },
+  {
+    "_id": "104",
+    "dutch": "je kunt iets of iemand niet op het uiterlijk beoordelen",
+    "english": "you can't judge a book by its cover"
+  },
+  {
+    "_id": "105",
+    "dutch": "mensen die iets niet helemaal begrijpen zijn gevaarlijk",
+    "english": "a little learning is a dangerous thing"
+  },
+  {
+    "_id": "106",
+    "dutch": "een sneeuwbal effect",
+    "english": "a snowball effect"
+  },
+  {
+    "_id": "107",
+    "dutch": "geen enkele kans",
+    "english": "a snowball's chance in hell"
+  },
+  {
+    "_id": "108",
+    "dutch": "los het probleem nu op voordat het erger wordt",
+    "english": "a stitch in time saves nine"
+  },
+  {
+    "_id": "109",
+    "dutch": "een storm in een glas water",
+    "english": "a storm in a teacup"
+  },
+  {
+    "_id": "110",
+    "dutch": "appels zijn gezond",
+    "english": "an apple a day keeps the doctor away"
+  },
+  {
+    "_id": "111",
+    "dutch": "met een beetje inspanning kan je een probleem voorkomen. later is het moeilijker op te lossen.",
+    "english": "an ounce of prevention is worth a pound of cure"
+  },
+  {
+    "_id": "112",
+    "dutch": "perfect",
+    "english": "as right as rain"
+  },
+  {
+    "_id": "113",
+    "dutch": "een bliksemschicht/donderslag bij heldere hemel",
+    "english": "bolt from the blue"
+  },
+  {
+    "_id": "114",
+    "dutch": "relaties verbreken",
+    "english": "burn bridges"
+  },
+  {
+    "_id": "115",
+    "dutch": "kalmte voor de storm",
+    "english": "calm before the storm"
+  },
+  {
+    "_id": "116",
+    "dutch": "wat er ook gebeurt",
+    "english": "come rain or shine"
+  },
+  {
+    "_id": "117",
+    "dutch": "stel geen vragen meer",
+    "english": "curiosity killed the cat"
+  },
+  {
+    "_id": "118",
+    "dutch": "iets op een goede manier doen",
+    "english": "cut the mustard"
+  },
+  {
+    "_id": "119",
+    "dutch": "verder gaan, dit is afgesloten",
+    "english": "don't beat a dead horse"
+  },
+  {
+    "_id": "120",
+    "dutch": "niet aan een dood paard trekken",
+    "english": "don't beat a dead horse"
+  },
+  {
+    "_id": "121",
+    "dutch": "iedereen krijgt wel een kans",
+    "english": "every dog has his day"
+  },
+  {
+    "_id": "122",
+    "dutch": "hoe beter je iemand leert kennen, hoe minder je hem mag",
+    "english": "familiarity breeds contempt"
+  },
+  {
+    "_id": "123",
+    "dutch": "zo gezond als een vis",
+    "english": "fit as a fiddle"
+  },
+  {
+    "_id": "124",
+    "dutch": "risico's nemen",
+    "english": "fortune favours the bold"
+  },
+  {
+    "_id": "125",
+    "dutch": "meer energie hebben na moe geweest te zijn",
+    "english": "get a second wind"
+  },
+  {
+    "_id": "126",
+    "dutch": "iets over een geheim horen",
+    "english": "get wind of something"
+  },
+  {
+    "_id": "127",
+    "dutch": "totaal mislukken",
+    "english": "go down in flames"
+  },
+  {
+    "_id": "128",
+    "dutch": "haastige spoed is zelden goed",
+    "english": "haste makes waste"
+  },
+  {
+    "_id": "129",
+    "dutch": "met je hoofd in de wolken lopen",
+    "english": "have your head in the clouds"
+  },
+  {
+    "_id": "130",
+    "dutch": "wie het laatst lacht, lacht het best",
+    "english": "he who laughs last laughs loudest"
+  },
+  {
+    "_id": "131",
+    "dutch": "iets rechtstreeks van de betrokken persoon horen",
+    "english": "hear something straight from the horse's mouth"
+  },
+  {
+    "_id": "132",
+    "dutch": "hij is dom",
+    "english": "he's not playing with a full deck"
+  },
+  {
+    "_id": "133",
+    "dutch": "hij is gek",
+    "english": "he's off his rocker"
+  },
+  {
+    "_id": "134",
+    "dutch": "hij kan niet beslissen",
+    "english": "he's sitting on the fence"
+  },
+  {
+    "_id": "135",
+    "dutch": "als iets niet lukt, moet je niet anderen de schuld geven",
+    "english": "it is a poor workman who blames his tools"
+  },
+  {
+    "_id": "136",
+    "dutch": "het komt wel goed",
+    "english": "it is always darkest before the dawn"
+  },
+  {
+    "_id": "137",
+    "dutch": "iemand alleen is niet verantwoordelijk. er zijn twee mensen nodig.",
+    "english": "it takes two to tango"
+  },
+  {
+    "_id": "138",
+    "dutch": "een trend volgen, doen wat iedereen doet",
+    "english": "jump on the bandwagon"
+  },
+  {
+    "_id": "139",
+    "dutch": "de situatie door hebben (meestal negatief)",
+    "english": "know which way the wind is blowing"
+  },
+  {
+    "_id": "140",
+    "dutch": "al het mogelijke doen",
+    "english": "leave no stone unturned"
+  },
+  {
+    "_id": "141",
+    "dutch": "geen slapende honden wakker maken",
+    "english": "let sleeping dogs lie"
+  },
+  {
+    "_id": "142",
+    "dutch": "iets wat je nooit vergeet hoe te doen",
+    "english": "like riding a bicycle"
+  },
+  {
+    "_id": "143",
+    "dutch": "ze zijn altijd samen",
+    "english": "like two peas in a pod"
+  },
+  {
+    "_id": "144",
+    "dutch": "van goede omstandigheden profiteren",
+    "english": "make hay while the sun shines"
+  },
+  {
+    "_id": "145",
+    "dutch": "heel blij, in de wolken",
+    "english": "on cloud nine"
+  },
+  {
+    "_id": "146",
+    "dutch": "als je een keer iets naars hebt meegemaakt, ben je voorzichtiger",
+    "english": "once bitten, twice shy"
+  },
+  {
+    "_id": "147",
+    "dutch": "van de wal in de sloot",
+    "english": "out of the frying pan and into the fire"
+  },
+  {
+    "_id": "148",
+    "dutch": "heel hard lopen",
+    "english": "run like the wind"
+  },
+  {
+    "_id": "149",
+    "dutch": "gedraag je of vertrek",
+    "english": "shape up or ship out"
+  },
+  {
+    "_id": "150",
+    "dutch": "ondergesneeuwd, heel erg druk",
+    "english": "snowed under"
+  },
+  {
+    "_id": "151",
+    "dutch": "die mogelijkheid bestaat niet meer",
+    "english": "that ship has sailed"
+  },
+  {
+    "_id": "152",
+    "dutch": "de pot verwijt de ketel dat hij zwart ziet",
+    "english": "the pot calling the kettle black"
+  },
+  {
+    "_id": "153",
+    "dutch": "er zijn problemen te verwachten",
+    "english": "there are clouds on the horizon"
+  },
+  {
+    "_id": "154",
+    "dutch": "mensen die in moreel opzicht betwistbaar zijn, zouden geen kritiek mogen hebben op anderen",
+    "english": "those who live in glass houses shouldn't throw stones"
+  },
+  {
+    "_id": "155",
+    "dutch": "in good times and in bad times",
+    "english": "door dik en dun"
+  },
+  {
+    "_id": "156",
+    "dutch": "tijd is geld",
+    "english": "time is money"
+  },
+  {
+    "_id": "157",
+    "dutch": "verspil geen dingen, misschien heb je ze later nodig",
+    "english": "waste not, want not"
+  },
+  {
+    "_id": "158",
+    "dutch": "we zijn het eens",
+    "english": "we see eye to eye"
+  },
+  {
+    "_id": "159",
+    "dutch": "een moeilijke tijd doorstaan",
+    "english": "weather the storm"
+  },
+  {
+    "_id": "160",
+    "dutch": "een goed begin is het halve werk",
+    "english": "well begun is half done"
+  },
+  {
+    "_id": "161",
+    "dutch": "alles loopt tegelijk mis",
+    "english": "when it rains it pours"
+  },
+  {
+    "_id": "162",
+    "dutch": "je hebt meer kans om te slagen als je aardig doet",
+    "english": "you can catch more flies with honey than you can with vinegar"
+  },
+  {
+    "_id": "163",
+    "dutch": "met stroop/honing vang me meer vliegen dan met azijn",
+    "english": "you can catch more flies with honey than you can with vinegar"
+  },
+  {
+    "_id": "164",
+    "dutch": "je kan iemand wel helpen maar niet dwingen een beslissing te nemen",
+    "english": "you can lead a horse to water, but you can't make him drink"
+  },
+  {
+    "_id": "165",
+    "dutch": "aan alles zijn kosten verbonden",
+    "english": "you can't make an omelet without breaking some eggs"
+  },
+  {
+    "_id": "166",
+    "dutch": "waar gehakt wordt vallen spaanders",
+    "english": "you can't make an omelet without breaking some eggs"
+  },
+  {
+    "_id": "167",
+    "dutch": "wie a zegt moet ook b zeggen",
+    "english": "in for a penny, in for a pound."
+  },
+  {
+    "_id": "168",
+    "dutch": "de aanhouder wint",
+    "english": "it's dogged that does it"
+  },
+  {
+    "_id": "169",
+    "dutch": "niet geschoten is altijd mis",
+    "english": "nothing ventured, nothing gained"
+  },
+  {
+    "_id": "170",
+    "dutch": "baat het niet, dan schaadt het niet.",
+    "english": "it doesn't hurt to try"
+  },
+  {
+    "_id": "171",
+    "dutch": "men moet zijn bed maken zoals men slapen wil.",
+    "english": "as you make your bed, so you must lie on it"
+  },
+  {
+    "_id": "172",
+    "dutch": "belofte maakt schuld.",
+    "english": "to keep one’s word"
+  },
+  {
+    "_id": "173",
+    "dutch": "wat de boer niet kent, dat vreet hij niet.",
+    "english": "unknown is unloved"
+  },
+  {
+    "_id": "174",
+    "dutch": "hoge bomen vangen veel wind.",
+    "english": "the bigger they are, the harder they fall."
+  },
+  {
+    "_id": "175",
+    "dutch": "de eerste klap is een daalder waard.",
+    "english": "to catch the bull, grab its horns."
+  },
+  {
+    "_id": "176",
+    "dutch": "al doende leert men.",
+    "english": "practice makes perfect"
+  },
+  {
+    "_id": "177",
+    "dutch": "eerlijkheid duurt het langst.",
+    "english": "honesty will pay in the long run."
+  },
+  {
+    "_id": "178",
+    "dutch": "wie het eerst komt, die het eerst maalt.",
+    "english": "the early bird catches the worm"
+  },
+  {
+    "_id": "179",
+    "dutch": "een ezel stoot zich in het gemeen niet tweemaal aan dezelfde steen.",
+    "english": "a donkey doesn't bump into the same stone twice."
+  },
+  {
+    "_id": "180",
+    "dutch": "voor geld kun je de duivel doen dansen.",
+    "english": "everybody has his price"
+  },
+  {
+    "_id": "181",
+    "dutch": "wie zijn gat brandt, moet op de blaren zitten.",
+    "english": "you must lie in your bed the way you made it."
+  },
+  {
+    "_id": "182",
+    "dutch": "gezelligheid kent geen tijd.",
+    "english": "time flies when you're having fun"
+  },
+  {
+    "_id": "183",
+    "dutch": "een goed begin is het halve werk.",
+    "english": "the first blow is half the battle"
+  },
+  {
+    "_id": "184",
+    "dutch": "ieder huisje heeft zijn kruisje.",
+    "english": "each cottage has an entrance hall."
+  },
+  {
+    "_id": "185",
+    "dutch": "eigen haard is goud waard.",
+    "english": "your home is your castle."
+  },
+  {
+    "_id": "186",
+    "dutch": "vele handen maken licht werk",
+    "english": "many hands make light work"
+  },
+  {
+    "_id": "187",
+    "dutch": "wie met honden omgaat of slaapt, krijgt vlooien\".,a man is known by the company he keeps\n188,men kan geen ijzer met handen breken.,can't bend space and time\n189,men moet het ijzer smeden als het heet is.,striking the iron when it is hot\n190,jong geleerd, oud gedaan.,\"learned when young is done when old"
+  },
+  {
+    "_id": "191",
+    "dutch": "de gestadige jager wint.",
+    "english": "it's dogged that does it"
+  },
+  {
+    "_id": "192",
+    "dutch": "als het kalf verdronken is, dempt men de put\".,\"too late to lock the stable door after the horse had bolted"
+  },
+  {
+    "_id": "193",
+    "dutch": "van een kale kip kun je niet plukken.",
+    "english": "after all, you can't take blood from a stone"
+  },
+  {
+    "_id": "194",
+    "dutch": "zoals het klokje thuis tikt, tikt het nergens.",
+    "english": "home sweet home"
+  },
+  {
+    "_id": "195",
+    "dutch": "wie het kleine niet eert, is het grote niet weerd (waard)\".,whom does not honor the small is not worthy of the great\n196,\"wie het laatst lacht, lacht het best.",
+    "english": "he who laughs last laughs best"
+  },
+  {
+    "_id": "197",
+    "dutch": "al is de leugen nog zo snel, de waarheid achterhaalt hem wel.",
+    "english": "a lie has no legs"
+  },
+  {
+    "_id": "198",
+    "dutch": "zo lang er leven is, is er hoop",
+    "english": "while there's life, there's hope"
+  },
+  {
+    "_id": "199",
+    "dutch": "beter laat dan nooit.\"better late than never"
+  },
+  {
+    "_id": "202",
+    "dutch": "dat muisje krijgt nog wel een staartje",
+    "english": "we haven't heard the end of this."
+  },
+  {
+    "_id": "203",
+    "dutch": "nood breekt wet.",
+    "english": "necessity knows no law."
+  },
+  {
+    "_id": "204",
+    "dutch": "door het oog van de naald kruipen.",
+    "english": "jumping through hoops"
+  },
+  {
+    "_id": "205",
+    "dutch": "onkruid vergaat niet.",
+    "english": "evil doesn't die so easily."
+  },
+  {
+    "_id": "206",
+    "dutch": "men mag een gegeven paard niet in de bek kijken.",
+    "english": "do not look a gift-horse in the mouth"
+  },
+  {
+    "_id": "207",
+    "dutch": "waar rook is, is vuur",
+    "english": "where there's one, there's more"
+  },
+  {
+    "_id": "208",
+    "dutch": "rome is ook niet op één dag gebouwd.\"rome was not built in one day.\""
+  },
+  {
+    "_id": "209",
+    "dutch": "als er één schaap over de dam is, volgen er meer.",
+    "english": "come one, come all"
+  },
+  {
+    "_id": "210",
+    "dutch": "wie de schoen past, trekke hem aan.",
+    "english": "if the gauntlet doesn't fit, you must acquit."
+  },
+  {
+    "_id": "211",
+    "dutch": "tijd is geld.",
+    "english": "we're on the clock, time is money"
+  },
+  {
+    "_id": "212",
+    "dutch": "zoals het klokje thuis tikt, tikt het nergens.",
+    "english": "there is no place like home."
+  },
+  {
+    "_id": "213",
+    "dutch": "oost west, thuis best.",
+    "english": "home sweet home"
+  },
+  {
+    "_id": "214",
+    "dutch": "van uitstel komt afstel.\"delay is the beginning of defeat.\""
+  },
+  {
+    "_id": "214",
+    "dutch": "van uitstel komt afstel.\"no time like the present\""
+  },
+  {
+    "_id": "214",
+    "dutch": "van uitstel komt afstel.\"procrastination is the thief of time\""
+  },
+  {
+    "_id": "215",
+    "dutch": "vertrouwen komt te voet en gaat te paard.",
+    "english": "trust arrives on foot and leaves on horseback."
+  },
+  {
+    "_id": "216",
+    "dutch": "wat in een goed vat zit verzuurt niet.",
+    "english": "all good things come to those who wait."
+  },
+  {
+    "_id": "224",
+    "dutch": "spreken is zilver, zwijgen is goud.",
+    "english": "speech is silver, but silence is golden"
+  },
+  {
+    "_id": "225",
+    "dutch": "zuinigheid met vlijt bouwt huizen als kastelen.",
+    "english": "a penny saved is a penny earned"
+  },
+  {
+    "_id": "227",
+    "dutch": "water naar de zee dragen",
+    "english": "carry coals to newcastle"
   }
 ]

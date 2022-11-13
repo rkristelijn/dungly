@@ -20,9 +20,14 @@ End result will be that you can install this tool globally `npm i -g dungly` (at
 
 Make sure the full csv file is lowercase (VSC/mac: command-shift-P, transform to lowercase)
 
+## Plans
+
+1. Could add more languages, therefore the nl and en need to switch places and e.g. Polish can be added. There could be a new 'command' added to check a different column or just a setting to flip Dutch for another language.
+
 ## Resources used
 
 - [Build Your First Node.js Command Line Application](https://developer.okta.com/blog/2019/06/18/command-line-app-with-nodejs)
 - [What is Dungli](https://names.quillem.com/vegetables/what-is-dungli-in-english)
 - [yargs with 1 argument](https://github.com/yargs/yargs/blob/main/docs/advanced.md)
 - [De meest gebruikte Engelse spreekwoorden](https://www.ef.nl/leermiddelen-engels/engelse-spreekwoorden/)
+- [Meest Gebruikte Spreekwoorden](https://www.meest-gebruikte.nl/meest-gebruikte-spreekwoorden/)

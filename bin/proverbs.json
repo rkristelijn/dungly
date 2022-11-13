@@ -931,7 +931,23 @@
   },
   {
     "_id": "187",
-    "dutch": "wie met honden omgaat of slaapt, krijgt vlooien\".,a man is known by the company he keeps\n188,men kan geen ijzer met handen breken.,can't bend space and time\n189,men moet het ijzer smeden als het heet is.,striking the iron when it is hot\n190,jong geleerd, oud gedaan.,\"learned when young is done when old"
+    "dutch": "wie met honden omgaat of slaapt, krijgt vlooien",
+    "english": "a man is known by the company he keeps"
+  },
+  {
+    "_id": "188",
+    "dutch": "men kan geen ijzer met handen breken.",
+    "english": "can't bend space and time"
+  },
+  {
+    "_id": "189",
+    "dutch": "men moet het ijzer smeden als het heet is.",
+    "english": "striking the iron when it is hot"
+  },
+  {
+    "_id": "190",
+    "dutch": "jong geleerd, oud gedaan",
+    "english": "learned when young is done when old\""
   },
   {
     "_id": "191",
@@ -954,7 +970,12 @@
   },
   {
     "_id": "195",
-    "dutch": "wie het kleine niet eert, is het grote niet weerd (waard)\".,whom does not honor the small is not worthy of the great\n196,\"wie het laatst lacht, lacht het best.",
+    "dutch": "wie het kleine niet eert, is het grote niet weerd (waard)",
+    "english": "whom does not honor the small is not worthy of the great"
+  },
+  {
+    "_id": "196",
+    "dutch": "wie het laatst lacht, lacht het best.",
     "english": "he who laughs last laughs best"
   },
   {
@@ -969,7 +990,7 @@
   },
   {
     "_id": "199",
-    "dutch": "beter laat dan nooit.\"better late than never"
+    "dutch": "beter laat dan nooit.\"better late than never\""
   },
   {
     "_id": "202",

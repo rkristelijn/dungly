@@ -12,13 +12,13 @@ _id,dutch,english
 11,niet zo snel,easy does it
 12,uit de hand lopen,get out of hand
 13,"doen wat je al de hele tijd wilde, zodat je verder kunt gaan",get something out of your system
-14,beter je best doen of vertrekken,get your act together
+14,beter je best doen of vertrekken,get your act together or leave
 15,iemand het voordeel van de twijfel geven,give someone the benefit of the doubt
 16,opnieuw beginnen,go back to the drawing board
 17,niet opgeven,hit the sack
 18,het is niet ingewikkeld,it's not rocket science
 19,iemand niet verantwoordelijk voor iets houden,let someone off the hook
-20,een lang verhaal kort maken,make a long story short
+20,een lang verhaal kort maken,to make a long story short
 21,het is te laat,miss the boat
 22,tussen wal en schip vallen,fall through the cracks
 23,niemand in europa mag tussen wal en schip vallen,nobody in europe must be left by the wayside
@@ -27,7 +27,7 @@ _id,dutch,english
 26,iets goed doen,on the ball
 27,iemand voor de gek houden,pull someone's leg
 28,kalmeer,pull yourself together
-29,tot nu toe gaat alles goed,so far so good
+29,tot nu toe gaat alles goed,"so far, so good"
 30,als je over de duiver praat,speak of the devil
 31,mijn geduld is nu op,that's the last straw
 32,het beste van twee werelden,the best of both worlds
@@ -170,7 +170,7 @@ _id,dutch,english
 169,niet geschoten is altijd mis,"nothing ventured, nothing gained"
 170,"baat het niet, dan schaadt het niet.",it doesn't hurt to try
 171,men moet zijn bed maken zoals men slapen wil.,"as you make your bed, so you must lie on it"
-172,belofte maakt schuld.,to keep one’s word
+172,belofte maakt schuld.,to keep one's word
 173,"wat de boer niet kent, dat vreet hij niet.",unknown is unloved
 174,hoge bomen vangen veel wind.,"the bigger they are, the harder they fall."
 175,de eerste klap is een daalder waard.,"to catch the bull, grab its horns."
@@ -190,31 +190,35 @@ _id,dutch,english
 189,men moet het ijzer smeden als het heet is.,striking the iron when it is hot
 190,"jong geleerd, oud gedaan",learned when young is done when old"
 191,de gestadige jager wint.,"it's dogged that does it"
-192,"als het kalf verdronken is, dempt men de put".,"too late to lock the stable door after the horse had bolted"
+192,"als het kalf verdronken is, dempt men de put", "too late to lock the stable door after the horse had bolted"
 193,van een kale kip kun je niet plukken.,"after all, you can't take blood from a stone"
 194,"zoals het klokje thuis tikt, tikt het nergens.","home sweet home"
 195,"wie het kleine niet eert, is het grote niet weerd (waard)",whom does not honor the small is not worthy of the great
 196,"wie het laatst lacht, lacht het best.","he who laughs last laughs best"
 197,"al is de leugen nog zo snel, de waarheid achterhaalt hem wel.",a lie has no legs
 198,"zo lang er leven is, is er hoop","while there's life, there's hope"
-199,beter laat dan nooit."better late than never"
+199,beter laat dan nooit,"better late than never"
 202,dat muisje krijgt nog wel een staartje,we haven't heard the end of this.
 203,nood breekt wet.,necessity knows no law.
 204,door het oog van de naald kruipen.,jumping through hoops
 205,onkruid vergaat niet.,evil doesn't die so easily.
 206,men mag een gegeven paard niet in de bek kijken.,do not look a gift-horse in the mouth
 207,"waar rook is, is vuur", "where there's one, there's more"
-208,rome is ook niet op één dag gebouwd."rome was not built in one day."
+208,rome is ook niet op één dag gebouwd, "rome was not built in one day."
 209,"als er één schaap over de dam is, volgen er meer.","come one, come all"
 210,"wie de schoen past, trekke hem aan.","if the gauntlet doesn't fit, you must acquit."
 211,tijd is geld.,"we're on the clock, time is money"
 212,"zoals het klokje thuis tikt, tikt het nergens.","there is no place like home."
 213,"oost west, thuis best.","home sweet home"
-214,van uitstel komt afstel."delay is the beginning of defeat."
-214,van uitstel komt afstel."no time like the present"
-214,van uitstel komt afstel."procrastination is the thief of time"
-215,vertrouwen komt te voet en gaat te paard.,"trust arrives on foot and leaves on horseback."
-216,wat in een goed vat zit verzuurt niet.,"all good things come to those who wait."
-224,"spreken is zilver, zwijgen is goud.","speech is silver, but silence is golden"
-225,zuinigheid met vlijt bouwt huizen als kastelen.,a penny saved is a penny earned
-227,water naar de zee dragen,carry coals to newcastle
+214,van uitstel komt afstel, "delay is the beginning of defeat."
+215,van uitstel komt afstel, "no time like the present"
+216,van uitstel komt afstel, "procrastination is the thief of time"
+217,vertrouwen komt te voet en gaat te paard.,"trust arrives on foot and leaves on horseback."
+218,wat in een goed vat zit verzuurt niet.,"all good things come to those who wait."
+219,"spreken is zilver, zwijgen is goud.","speech is silver, but silence is golden"
+220,zuinigheid met vlijt bouwt huizen als kastelen.,a penny saved is a penny earned
+221,water naar de zee dragen,carry coals to newcastle
+222,"wie een kuil graaft voor een ander, valt er zelf in","hoisted on their own petard"
+223,"wie een kuil graaft voor een ander, valt er zelf in","what goes around comes around"
+224,"ik ben zo moe als een hond","i'm as tired as 60 cats"
+225,"de appel valt niet ver van de boom", "a chip of the old block"

@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/rkristelijn/dungly/compare/v1.1.1...v1.3.0) (2023-11-15)
+
+
+### Features
+
+* adds reverse searching, closes [#1](https://github.com/rkristelijn/dungly/issues/1), closes [#2](https://github.com/rkristelijn/dungly/issues/2) ([4d7c330](https://github.com/rkristelijn/dungly/commit/4d7c330c367e278b946bdf29a6e49de1ac59892e))
+
 ### [1.1.1](https://github.com/rkristelijn/dungly/compare/v1.1.0...v1.1.1) (2022-11-13)
 
 

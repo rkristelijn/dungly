@@ -30,4 +30,4 @@ falling between two stools - tussen wal en schip vallen
 
 ## More information
 
-[Detailed documentation](/docs/README.md)
+[Detailed documentation](https://github.com/rkristelijn/dungly/blob/main/docs/README.md)

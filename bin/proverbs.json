@@ -67,7 +67,7 @@
   {
     "_id": "14",
     "dutch": "beter je best doen of vertrekken",
-    "english": "get your act together"
+    "english": "get your act together or leave"
   },
   {
     "_id": "15",
@@ -97,7 +97,7 @@
   {
     "_id": "20",
     "dutch": "een lang verhaal kort maken",
-    "english": "make a long story short"
+    "english": "to make a long story short"
   },
   {
     "_id": "21",
@@ -142,7 +142,7 @@
   {
     "_id": "29",
     "dutch": "tot nu toe gaat alles goed",
-    "english": "so far so good"
+    "english": "so far, so good"
   },
   {
     "_id": "30",
@@ -857,7 +857,7 @@
   {
     "_id": "172",
     "dutch": "belofte maakt schuld.",
-    "english": "to keep one’s word"
+    "english": "to keep one's word"
   },
   {
     "_id": "173",
@@ -956,7 +956,8 @@
   },
   {
     "_id": "192",
-    "dutch": "als het kalf verdronken is, dempt men de put\".,\"too late to lock the stable door after the horse had bolted"
+    "dutch": "als het kalf verdronken is, dempt men de put",
+    "english": "too late to lock the stable door after the horse had bolted"
   },
   {
     "_id": "193",
@@ -990,7 +991,8 @@
   },
   {
     "_id": "199",
-    "dutch": "beter laat dan nooit.\"better late than never\""
+    "dutch": "beter laat dan nooit",
+    "english": "better late than never"
   },
   {
     "_id": "202",
@@ -1024,7 +1026,8 @@
   },
   {
     "_id": "208",
-    "dutch": "rome is ook niet op één dag gebouwd.\"rome was not built in one day.\""
+    "dutch": "rome is ook niet op één dag gebouwd",
+    "english": "rome was not built in one day."
   },
   {
     "_id": "209",
@@ -1053,39 +1056,62 @@
   },
   {
     "_id": "214",
-    "dutch": "van uitstel komt afstel.\"delay is the beginning of defeat.\""
-  },
-  {
-    "_id": "214",
-    "dutch": "van uitstel komt afstel.\"no time like the present\""
-  },
-  {
-    "_id": "214",
-    "dutch": "van uitstel komt afstel.\"procrastination is the thief of time\""
+    "dutch": "van uitstel komt afstel",
+    "english": "delay is the beginning of defeat."
   },
   {
     "_id": "215",
+    "dutch": "van uitstel komt afstel",
+    "english": "no time like the present"
+  },
+  {
+    "_id": "216",
+    "dutch": "van uitstel komt afstel",
+    "english": "procrastination is the thief of time"
+  },
+  {
+    "_id": "217",
     "dutch": "vertrouwen komt te voet en gaat te paard.",
     "english": "trust arrives on foot and leaves on horseback."
   },
   {
-    "_id": "216",
+    "_id": "218",
     "dutch": "wat in een goed vat zit verzuurt niet.",
     "english": "all good things come to those who wait."
   },
   {
-    "_id": "224",
+    "_id": "219",
     "dutch": "spreken is zilver, zwijgen is goud.",
     "english": "speech is silver, but silence is golden"
   },
   {
-    "_id": "225",
+    "_id": "220",
     "dutch": "zuinigheid met vlijt bouwt huizen als kastelen.",
     "english": "a penny saved is a penny earned"
   },
   {
-    "_id": "227",
+    "_id": "221",
     "dutch": "water naar de zee dragen",
     "english": "carry coals to newcastle"
+  },
+  {
+    "_id": "222",
+    "dutch": "wie een kuil graaft voor een ander, valt er zelf in",
+    "english": "hoisted on their own petard"
+  },
+  {
+    "_id": "223",
+    "dutch": "wie een kuil graaft voor een ander, valt er zelf in",
+    "english": "what goes around comes around"
+  },
+  {
+    "_id": "224",
+    "dutch": "ik ben zo moe als een hond",
+    "english": "i'm as tired as 60 cats"
+  },
+  {
+    "_id": "225",
+    "dutch": "de appel valt niet ver van de boom",
+    "english": "a chip of the old block"
   }
 ]

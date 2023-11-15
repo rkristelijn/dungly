@@ -14,6 +14,7 @@ function checkLines(lines) {
   lines.forEach((line) => {
     checkLowerCase(line);
     checkForLength(line);
+    checkForValues(line);
   });
 }
 
@@ -39,4 +40,13 @@ function containsUppercase(str) {
 
 function logError(line, problem) {
   console.log(`Error: line"${Object.values(line).join(",")}" ${problem}`);
+}
+
+function checkForValues(line) {
+  if ((!line.dutch) || !line.english) {
+    logError(
+      line,
+      "There is an issue with the values of the line, one of them is empty"
+    );
+  }
 }

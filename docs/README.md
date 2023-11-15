@@ -30,4 +30,6 @@ Make sure the full csv file is lowercase (VSC/mac: command-shift-P, transform to
 - [What is Dungli](https://names.quillem.com/vegetables/what-is-dungli-in-english)
 - [yargs with 1 argument](https://github.com/yargs/yargs/blob/main/docs/advanced.md)
 - [De meest gebruikte Engelse spreekwoorden](https://www.ef.nl/leermiddelen-engels/engelse-spreekwoorden/)
-- [Meest Gebruikte Spreekwoorden](https://www.meest-gebruikte.nl/meest-gebruikte-spreekwoorden/)
+- [Meest gebruikte Spreekwoorden](https://www.meest-gebruikte.nl/meest-gebruikte-spreekwoorden/)
+- [Nederlandse spreekwoorden](https://nl.wikiquote.org/wiki/Nederlandstalige_spreekwoorden)
+- [False friends](https://www.vertaalbureau-perfect.nl/engels-vertaalbureau/false-friends)

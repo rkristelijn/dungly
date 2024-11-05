@@ -31,3 +31,7 @@ falling between two stools - tussen wal en schip vallen
 ## More information
 
 [Detailed documentation](https://github.com/rkristelijn/dungly/blob/main/docs/README.md)
+
+## Sponsor me
+
+[Sponsor me](https://github.com/sponsors/rkristelijn/) if you appreciate my work.

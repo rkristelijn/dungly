@@ -241,7 +241,7 @@
   },
   {
     "_id": "49",
-    "dutch": "mensen die hetzelfde zijn, zijn vaak vrienden (vaak in negatieve zin),",
+    "dutch": "mensen die hetzelfde zijn, zijn vaak vrienden (vaak in negatieve zin)",
     "english": "birds of a feather flock together"
   },
   {
@@ -947,7 +947,7 @@
   {
     "_id": "190",
     "dutch": "jong geleerd, oud gedaan",
-    "english": "learned when young is done when old\""
+    "english": "learned when young is done when old"
   },
   {
     "_id": "191",
@@ -1026,12 +1026,12 @@
   },
   {
     "_id": "208",
-    "dutch": "rome is ook niet op één dag gebouwd",
+    "dutch": "rome is ook niet op een dag gebouwd",
     "english": "rome was not built in one day."
   },
   {
     "_id": "209",
-    "dutch": "als er één schaap over de dam is, volgen er meer.",
+    "dutch": "als er een schaap over de dam is, volgen er meer.",
     "english": "come one, come all"
   },
   {
@@ -1113,5 +1113,15 @@
     "_id": "225",
     "dutch": "de appel valt niet ver van de boom",
     "english": "a chip of the old block"
+  },
+  {
+    "_id": "226",
+    "dutch": "op de verkeerde voet starten",
+    "english": "start off on the wrong foot"
+  },
+  {
+    "_id": "227",
+    "dutch": "als er een schaap over de dam is, volgen er meer.",
+    "english": "once one sheep crosses, the others follow"
   }
 ]

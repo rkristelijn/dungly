@@ -15,6 +15,7 @@ function checkLines(lines) {
     checkLowerCase(line);
     checkForLength(line);
     checkForValues(line);
+    checkForAccent(line);
   });
 }
 
@@ -49,4 +50,17 @@ function checkForValues(line) {
       "There is an issue with the values of the line, one of them is empty"
     );
   }
+}
+
+function checkForAccent(line) {
+  if (containsAccent(line.dutch) || containsAccent(line.english)) {
+    logError(
+      line,
+      "has an accent character (should be all lowercase for ease of searching)"
+    );
+  }
+}
+
+function containsAccent(str) {
+  return /[À-ÿ]/.test(str);
 }

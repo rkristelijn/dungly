@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/rkristelijn/dungly/compare/v1.6.0...v1.6.1) (2025-04-19)
+
+
+### Bug Fixes
+
+* add test script ([fb2930b](https://github.com/rkristelijn/dungly/commit/fb2930b5d85b56251f634d2daa09895653cecdc0))
+
 ## [1.6.0](https://github.com/rkristelijn/dungly/compare/v1.5.0...v1.6.0) (2025-04-19)
 
 ## [1.5.0](https://github.com/rkristelijn/dungly/compare/v1.3.8...v1.5.0) (2025-04-19)

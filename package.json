@@ -1,6 +1,6 @@
 {
   "name": "dungly",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "A tool to quickly find English proverbs based of Dutch keywords in Spreekwoorden",
   "main": "./bin/index.js",
   "homepage": "https://github.com/rkristelijn/dungly",

@@ -12,7 +12,8 @@
     "check": "node ./bin/init.js",
     "release": "standard-version",
     "format": "prettier --write \"**/*.{js,json,md}\"",
-    "format:check": "prettier --check \"**/*.{js,json,md}\""
+    "format:check": "prettier --check \"**/*.{js,json,md}\"",
+    "test": "npm run check"
   },
   "keywords": [
     "proverbs",

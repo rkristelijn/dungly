@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/rkristelijn/dungly/compare/v1.3.8...v1.4.0) (2025-04-19)
+
+
+### Bug Fixes
+
+* add linting, ai, Closes [#4](https://github.com/rkristelijn/dungly/issues/4) [#5](https://github.com/rkristelijn/dungly/issues/5) [#6](https://github.com/rkristelijn/dungly/issues/6) ([fbde92b](https://github.com/rkristelijn/dungly/commit/fbde92be0197bf0d47c36e946328eaa662c4d2a4))
+
 ### [1.3.9](https://github.com/rkristelijn/dungly/compare/v1.3.8...v1.3.9) (2025-04-19)
 
 
